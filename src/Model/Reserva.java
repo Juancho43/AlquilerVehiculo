@@ -1,10 +1,10 @@
 package Model;
 public class Reserva {
     private Usuario usuario;
-    private int vehiculo;
+    private Vehiculo vehiculo;
     private int diasReservados;
 
-    public Reserva(Usuario usuario, int vehiculo, int diasReservados) {
+    public Reserva(Usuario usuario, Vehiculo vehiculo, int diasReservados) {
         this.usuario = usuario;
         this.vehiculo = vehiculo;
         this.diasReservados = diasReservados;
@@ -18,11 +18,11 @@ public class Reserva {
         this.usuario = usuario;
     }
 
-    public int getVehiculo() {
+    public Vehiculo getVehiculo() {
         return vehiculo;
     }
 
-    public void setVehiculo(int vehiculo) {
+    public void setVehiculo(Vehiculo vehiculo) {
         this.vehiculo = vehiculo;
     }
 

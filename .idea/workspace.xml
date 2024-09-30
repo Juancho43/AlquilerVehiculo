@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37652ced-3c4c-49c6-b94e-69722703ddc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CostStrategy/EstrategiaAuto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CostStrategy/EstrategiaCamion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CostStrategy/EstrategiaMoto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CostStrategy/IEstrategiaCosto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/Reserva.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/Usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Reserva.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Reserva.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +37,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="developJuan" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,7 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "developJuan"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
