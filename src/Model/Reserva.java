@@ -10,6 +10,10 @@ public class Reserva {
         this.diasReservados = diasReservados;
     }
 
+    public double calcularCostoReserva(){
+        return vehiculo.calcularCosto(diasReservados);
+    }
+
     public Usuario getUsuario() {
         return usuario;
     }

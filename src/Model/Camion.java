@@ -1,5 +1,6 @@
 package Model;
 
+import VehicleFactory.FabricaCamion;
 
-public class Camion{
+public class Camion extends FabricaCamion {
 }

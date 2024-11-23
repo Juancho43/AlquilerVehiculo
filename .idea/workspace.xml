@@ -6,7 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="37652ced-3c4c-49c6-b94e-69722703ddc3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Camion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Camion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Moto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Model/Reserva.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Reserva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Vehiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VehiculeFactory/FabricaAuto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VehicleFactory/FabricaAuto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VehiculeFactory/FabricaCamion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VehicleFactory/FabricaCamion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VehiculeFactory/FabricaMoto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VehicleFactory/FabricaMoto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VehiculeFactory/IFabricaVehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VehicleFactory/IFabricaVehiculo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +49,10 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2mo5krNdfa0PRqFEBtpAEmuzmYl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,7 +66,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "developJuan"
+    "git-widget-placeholder": "developNik",
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

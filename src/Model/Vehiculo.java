@@ -1,21 +1,29 @@
 package Model;
 
+import CostStrategy.IEstrategiaCosto;
+
 public class Vehiculo {
 
     private String marca;
     private String modelo;
     private double tarifaBase;
     private boolean disponibilidad;
+    private IEstrategiaCosto estrategiaCosto;
 
     public Vehiculo() {
 
     }
 
-    public Vehiculo(String marca, String modelo, double tarifaBase, boolean disponibilidad) {
+    public Vehiculo(String marca, String modelo, double tarifaBase, boolean disponibilidad, IEstrategiaCosto estrategiaCosto) {
         this.marca = marca;
         this.modelo = modelo;
         this.tarifaBase = tarifaBase;
         this.disponibilidad = disponibilidad;
+        this.estrategiaCosto = estrategiaCosto;
+    }
+
+    public double calcularCosto(int dias) {
+        return estrategiaCosto.calcularCosto(dias, tarifaBase);
     }
 
     public String getMarca() {

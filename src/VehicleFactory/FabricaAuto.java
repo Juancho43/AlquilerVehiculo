@@ -5,7 +5,7 @@ import Model.Vehiculo;
 public class  FabricaAuto implements IFabricaVehiculo{
 
     @Override
-    public Vehiculo CrearVehiculo(String marca, String modelo, double tarifaBase, boolean Disponibilidad) {
+    public Vehiculo CrearVehiculo(String marca, String modelo, double tarifaBase, boolean disponibilidad) {
         return null;
     }
 }
