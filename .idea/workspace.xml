@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37652ced-3c4c-49c6-b94e-69722703ddc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Controller/GestorUsuarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DAO/DAOusuarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/GestorReservas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/GestorVehiculos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Views/AlquileresView.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Views/AlquileresView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Views/ReservaView.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Views/ReservaView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Views/UsersView.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Views/UsersView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/GestorUsuarios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/GestorUsuarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,15 +60,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "developJuan"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE&quot;: &quot;left&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE&quot;: &quot;right&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;developJuan&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\MEGA\Portafolio\Tecnicatura Programación\3er año\EDI3\ReservaVehiculo\src\Views" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="DAO" />
     </key>
@@ -74,5 +89,16 @@
       <updated>1727730235479</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
